@@ -1,0 +1,6 @@
+{
+  "name": "SocialPost Generator",
+  "description": "Generates 4 formats of social media posts from NetBramha work page URLs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
